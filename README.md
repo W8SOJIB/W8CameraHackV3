@@ -105,16 +105,14 @@ cd W8CameraHackV3
 
 # Install Python dependencies
 pip install requests colorama urllib3
-
-# Optional: For better colors (if colorama install fails, the script works without it)
-pip install colorama
-# Clone the repository
-git clone https://github.com/W8SOJIB/W8CameraHackV3
-cd W8CameraHackV3
-
-# Install dependencies
-pip install requests colorama urllib3
 ```
+
+## Run Tool
+
+```bash
+python W8CameraHackV3.py
+```
+ 
 
 #### For Desktop (Windows/Linux/Mac)
 
