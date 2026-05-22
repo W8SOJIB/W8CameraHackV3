@@ -1,0 +1,406 @@
+============================================================
+IP Address   : 103.38.55.153
+RTSP Port    : 554
+Camera Type  : NVR (Network Video Recorder)
+Country Code : XX
+Username     : admin
+Password     : admin123
+RTSP URL     : rtsp://admin:admin123@103.38.55.153:554/Streaming/Channels/101
+Snapshot     : /home/runner/workspace/snapshots/103_38_55_153_XX_20260516_131721.jpg
+Status       : LIVE
+Tested       : 2026-05-16 13:17:29
+Last Tested  : 2026-05-19 11:41:01
+============================================================
+
+============================================================
+IP Address   : 103.36.102.164
+RTSP Port    : 554
+Camera Type  : HIK Vision Camera
+Country Code : XX
+Username     : admin
+Password     : admin12345
+RTSP URL     : rtsp://admin:admin12345@103.36.102.164:554/Streaming/Channels/101
+Snapshot     : /home/runner/workspace/snapshots/103_36_102_164_XX_20260516_131718.jpg
+Status       : LIVE
+Tested       : 2026-05-16 13:17:21
+Last Tested  : 2026-05-19 11:41:01
+============================================================
+
+============================================================
+IP Address   : 182.163.99.242
+RTSP Port    : 554
+Camera Type  : NVR (Network Video Recorder)
+Country Code : XX
+Username     : admin
+Password     : admin123
+RTSP URL     : rtsp://admin:admin123@182.163.99.242:554/Streaming/Channels/101
+Snapshot     : /home/runner/workspace/snapshots/182_163_99_242_XX_20260516_131809.jpg
+Status       : LIVE
+Tested       : 2026-05-16 13:18:12
+Last Tested  : 2026-05-19 11:41:01
+============================================================
+
+============================================================
+IP Address   : 202.5.52.136
+RTSP Port    : 554
+Camera Type  : NVR (Network Video Recorder)
+Country Code : XX
+Username     : admin
+Password     : admin123
+RTSP URL     : rtsp://admin:admin123@202.5.52.136:554/Streaming/Channels/101
+Snapshot     : /home/runner/workspace/snapshots/202_5_52_136_XX_20260516_131843.jpg
+Status       : LIVE
+Tested       : 2026-05-16 13:18:45
+Last Tested  : 2026-05-19 11:41:01
+============================================================
+
+============================================================
+IP Address   : 118.179.85.37
+RTSP Port    : 554
+Camera Type  : HIK Vision Camera
+Country Code : XX
+Username     : admin
+Password     : admin12345
+RTSP URL     : rtsp://admin:admin12345@118.179.85.37:554/Streaming/Channels/101
+Snapshot     : /home/runner/workspace/snapshots/118_179_85_37_XX_20260516_131743.jpg
+Status       : LIVE
+Tested       : 2026-05-16 13:17:46
+Last Tested  : 2026-05-19 11:41:01
+============================================================
+
+============================================================
+IP Address   : 202.74.241.203
+RTSP Port    : 554
+Camera Type  : NVR (Network Video Recorder)
+Country Code : XX
+Username     : admin
+Password     : admin12345
+RTSP URL     : rtsp://admin:admin12345@202.74.241.203:554/Streaming/Channels/101
+Snapshot     : /home/runner/workspace/snapshots/202_74_241_203_XX_20260516_131845.jpg
+Status       : LIVE
+Tested       : 2026-05-16 13:18:47
+Last Tested  : 2026-05-19 11:41:02
+============================================================
+
+============================================================
+IP Address   : 203.82.205.171
+RTSP Port    : 554
+Camera Type  : NVR (Network Video Recorder)
+Country Code : XX
+Username     : admin
+Password     : Admin123
+RTSP URL     : rtsp://admin:Admin123@203.82.205.171:554/Streaming/Channels/101
+Snapshot     : 
+Status       : LIVE
+Tested       : 2026-05-16 13:19:09
+Last Tested  : 2026-05-19 11:41:02
+============================================================
+
+============================================================
+IP Address   : 103.135.51.95
+RTSP Port    : 554
+Camera Type  : HIK Vision Camera
+Country Code : XX
+Username     : admin
+Password     : admin12345
+RTSP URL     : rtsp://admin:admin12345@103.135.51.95:554/Streaming/Channels/101
+Snapshot     : /home/runner/workspace/snapshots/103_135_51_95_XX_20260516_134054.jpg
+Status       : LIVE
+Tested       : 2026-05-16 13:40:58
+Last Tested  : 2026-05-19 11:41:02
+============================================================
+
+============================================================
+IP Address   : 121.202.210.107
+RTSP Port    : 8554
+Camera Type  : Anjhua-Dahua Technology Camera
+Country Code : XX
+Username     : admin
+Password     : admin123
+RTSP URL     : rtsp://admin:admin123@121.202.210.107:8554/cam/realmonitor?channel=1&subtype=0
+Snapshot     : /home/runner/workspace/snapshots/121_202_210_107_XX_20260516_133522.jpg
+Status       : LIVE
+Tested       : 2026-05-16 13:35:25
+Last Tested  : 2026-05-19 11:41:02
+============================================================
+
+============================================================
+IP Address   : 182.239.84.77
+RTSP Port    : 8554
+Camera Type  : Anjhua-Dahua Technology Camera
+Country Code : XX
+Username     : admin
+Password     : admin123
+RTSP URL     : rtsp://admin:admin123@182.239.84.77:8554/cam/realmonitor?channel=1&subtype=0
+Snapshot     : /home/runner/workspace/snapshots/182_239_84_77_XX_20260516_133303.jpg
+Status       : LIVE
+Tested       : 2026-05-16 13:33:05
+Last Tested  : 2026-05-19 11:41:02
+============================================================
+
+============================================================
+IP Address   : 121.202.210.203
+RTSP Port    : 8554
+Camera Type  : Anjhua-Dahua Technology Camera
+Country Code : XX
+Username     : admin
+Password     : admin123
+RTSP URL     : rtsp://admin:admin123@121.202.210.203:8554/cam/realmonitor?channel=1&subtype=0
+Snapshot     : /home/runner/workspace/snapshots/121_202_210_203_XX_20260516_133200.jpg
+Status       : LIVE
+Tested       : 2026-05-16 13:32:09
+Last Tested  : 2026-05-19 11:41:02
+============================================================
+
+============================================================
+IP Address   : 161.81.124.179
+RTSP Port    : 8554
+Camera Type  : Anjhua-Dahua Technology Camera
+Country Code : XX
+Username     : admin
+Password     : admin123
+RTSP URL     : rtsp://admin:admin123@161.81.124.179:8554/cam/realmonitor?channel=1&subtype=0
+Snapshot     : /home/runner/workspace/snapshots/161_81_124_179_XX_20260516_133225.jpg
+Status       : LIVE
+Tested       : 2026-05-16 13:32:28
+Last Tested  : 2026-05-19 11:41:02
+============================================================
+
+============================================================
+IP Address   : 182.239.81.33
+RTSP Port    : 8554
+Camera Type  : Anjhua-Dahua Technology Camera
+Country Code : XX
+Username     : admin
+Password     : admin123
+RTSP URL     : rtsp://admin:admin123@182.239.81.33:8554/cam/realmonitor?channel=1&subtype=0
+Snapshot     : /home/runner/workspace/snapshots/182_239_81_33_XX_20260516_133608.jpg
+Status       : LIVE
+Tested       : 2026-05-16 13:36:12
+Last Tested  : 2026-05-19 11:41:02
+============================================================
+
+============================================================
+IP Address   : 31.55.238.157
+RTSP Port    : 554
+Camera Type  : NVR (Network Video Recorder)
+Country Code : XX
+Username     : admin
+Password     : 12345
+RTSP URL     : rtsp://admin:12345@31.55.238.157:554/Streaming/Channels/101
+Snapshot     : /home/runner/workspace/snapshots/31_55_238_157_XX_20260516_132726.jpg
+Status       : LIVE
+Tested       : 2026-05-16 13:27:30
+Last Tested  : 2026-05-19 11:41:03
+============================================================
+
+============================================================
+IP Address   : 103.109.158.158
+RTSP Port    : 554
+Camera Type  : HIK Vision Camera
+Country Code : XX
+Username     : admin
+Password     : Admin123
+RTSP URL     : rtsp://admin:Admin123@103.109.158.158:554/Streaming/Channels/101
+Snapshot     : /home/runner/workspace/snapshots/103_109_158_158_XX_20260516_134015.jpg
+Status       : LIVE
+Tested       : 2026-05-16 13:40:19
+Last Tested  : 2026-05-19 11:41:03
+============================================================
+
+============================================================
+IP Address   : 157.66.249.53
+RTSP Port    : 554
+Camera Type  : HIK Vision Camera
+Country Code : XX
+Username     : admin
+Password     : Admin123
+RTSP URL     : rtsp://admin:Admin123@157.66.249.53:554/Streaming/Channels/101
+Snapshot     : 
+Status       : LIVE
+Tested       : 2026-05-16 13:45:18
+Last Tested  : 2026-05-19 11:41:03
+============================================================
+
+============================================================
+IP Address   : 110.232.94.99
+RTSP Port    : 554
+Camera Type  : NVR (Network Video Recorder)
+Country Code : XX
+Username     : admin
+Password     : admin123
+RTSP URL     : rtsp://admin:admin123@110.232.94.99:554/Streaming/Channels/101
+Snapshot     : /home/runner/workspace/snapshots/110_232_94_99_XX_20260516_134408.jpg
+Status       : LIVE
+Tested       : 2026-05-16 13:44:11
+Last Tested  : 2026-05-19 11:41:03
+============================================================
+
+============================================================
+IP Address   : 117.20.55.184
+RTSP Port    : 554
+Camera Type  : HIK Vision Camera
+Country Code : XX
+Username     : admin
+Password     : Admin123
+RTSP URL     : rtsp://admin:Admin123@117.20.55.184:554/Streaming/Channels/101
+Snapshot     : /home/runner/workspace/snapshots/117_20_55_184_XX_20260516_134418.jpg
+Status       : LIVE
+Tested       : 2026-05-16 13:44:20
+Last Tested  : 2026-05-19 11:41:03
+============================================================
+
+============================================================
+IP Address   : 103.134.117.57
+RTSP Port    : 554
+Camera Type  : HIK Vision Camera
+Country Code : XX
+Username     : admin
+Password     : admin123
+RTSP URL     : rtsp://admin:admin123@103.134.117.57:554/Streaming/Channels/101
+Snapshot     : /home/runner/workspace/snapshots/103_134_117_57_XX_20260516_140747.jpg
+Status       : LIVE
+Tested       : 2026-05-16 14:07:49
+Last Tested  : 2026-05-19 11:41:07
+============================================================
+
+============================================================
+IP Address   : 103.136.174.6
+RTSP Port    : 554
+Camera Type  : HIK Vision Camera
+Country Code : XX
+Username     : admin
+Password     : admin123
+RTSP URL     : rtsp://admin:admin123@103.136.174.6:554/Streaming/Channels/101
+Snapshot     : /home/runner/workspace/snapshots/103_136_174_6_XX_20260516_140753.jpg
+Status       : LIVE
+Tested       : 2026-05-16 14:07:55
+Last Tested  : 2026-05-19 11:41:07
+============================================================
+
+============================================================
+IP Address   : 103.137.92.199
+RTSP Port    : 554
+Camera Type  : HIK Vision Camera
+Country Code : XX
+Username     : admin
+Password     : admin123
+RTSP URL     : rtsp://admin:admin123@103.137.92.199:554/Streaming/Channels/101
+Snapshot     : /home/runner/workspace/snapshots/103_137_92_199_XX_20260516_140755.jpg
+Status       : LIVE
+Tested       : 2026-05-16 14:07:56
+Last Tested  : 2026-05-19 11:41:07
+============================================================
+
+============================================================
+IP Address   : 103.153.140.46
+RTSP Port    : 554
+Camera Type  : NVR (Network Video Recorder)
+Country Code : XX
+Username     : admin
+Password     : admin123
+RTSP URL     : rtsp://admin:admin123@103.153.140.46:554/Streaming/Channels/101
+Snapshot     : /home/runner/workspace/snapshots/103_153_140_46_XX_20260516_140816.jpg
+Status       : LIVE
+Tested       : 2026-05-16 14:08:20
+Last Tested  : 2026-05-19 11:41:07
+============================================================
+
+============================================================
+IP Address   : 161.81.124.179
+RTSP Port    : 8554
+Camera Type  : Anjhua-Dahua Technology Camera
+Country Code : XX
+Username     : admin
+Password     : admin123
+RTSP URL     : rtsp://admin:admin123@161.81.124.179:8554/cam/realmonitor?channel=1&subtype=0
+Snapshot     : 
+Status       : LIVE
+Tested       : 2026-05-18 22:26:16
+Last Tested  : 2026-05-19 11:41:13
+============================================================
+
+============================================================
+IP Address   : 121.202.210.107
+RTSP Port    : 8554
+Camera Type  : Anjhua-Dahua Technology Camera
+Country Code : XX
+Username     : admin
+Password     : admin123
+RTSP URL     : rtsp://admin:admin123@121.202.210.107:8554/cam/realmonitor?channel=1&subtype=0
+Snapshot     : 
+Status       : LIVE
+Tested       : 2026-05-18 22:34:05
+Last Tested  : 2026-05-19 11:41:13
+============================================================
+
+============================================================
+IP Address   : 182.239.81.33
+RTSP Port    : 8554
+Camera Type  : Anjhua-Dahua Technology Camera
+Country Code : XX
+Username     : admin
+Password     : admin123
+RTSP URL     : rtsp://admin:admin123@182.239.81.33:8554/cam/realmonitor?channel=1&subtype=0
+Snapshot     : 
+Status       : LIVE
+Tested       : 2026-05-18 22:35:43
+Last Tested  : 2026-05-19 11:41:13
+============================================================
+
+============================================================
+IP Address   : 121.202.210.203
+RTSP Port    : 8554
+Camera Type  : Anjhua-Dahua Technology Camera
+Country Code : XX
+Username     : admin
+Password     : admin123
+RTSP URL     : rtsp://admin:admin123@121.202.210.203:8554/cam/realmonitor?channel=1&subtype=0
+Snapshot     : 
+Status       : LIVE
+Tested       : 2026-05-18 22:25:34
+Last Tested  : 2026-05-19 11:41:14
+============================================================
+
+============================================================
+IP Address   : 121.202.211.192
+RTSP Port    : 8554
+Camera Type  : Anjhua-Dahua Technology Camera
+Country Code : XX
+Username     : admin
+Password     : admin123
+RTSP URL     : rtsp://admin:admin123@121.202.211.192:8554/cam/realmonitor?channel=1&subtype=0
+Snapshot     : 
+Status       : LIVE
+Tested       : 2026-05-18 22:34:06
+Last Tested  : 2026-05-19 11:41:14
+============================================================
+
+============================================================
+IP Address   : 182.239.84.77
+RTSP Port    : 8554
+Camera Type  : Anjhua-Dahua Technology Camera
+Country Code : XX
+Username     : admin
+Password     : admin123
+RTSP URL     : rtsp://admin:admin123@182.239.84.77:8554/cam/realmonitor?channel=1&subtype=0
+Snapshot     : 
+Status       : LIVE
+Tested       : 2026-05-18 22:27:52
+Last Tested  : 2026-05-19 11:41:14
+============================================================
+
+============================================================
+IP Address   : 161.81.123.235
+RTSP Port    : 8554
+Camera Type  : Anjhua-Dahua Technology Camera
+Country Code : XX
+Username     : admin
+Password     : admin123
+RTSP URL     : rtsp://admin:admin123@161.81.123.235:8554/cam/realmonitor?channel=1&subtype=0
+Snapshot     : 
+Status       : LIVE
+Tested       : 2026-05-18 22:25:42
+Last Tested  : 2026-05-19 11:41:14
+============================================================
+
